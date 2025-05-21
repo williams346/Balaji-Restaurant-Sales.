@@ -15,4 +15,11 @@ II. Data Loading | Cleaning
 
 ![balaji workbook bad screenshot](https://github.com/user-attachments/assets/e676c846-2888-40f6-8bbe-5d5c749ad6d2)
 
-
+The dataset was not appropriately cleaned so I took some steps in cleaning the dataset, some if the steps include:
+- Remove or Correct the Blank First Row.
+- Correct the Misaligned Headers.
+- Handle the #NAME? Errors.
+- Assess Missing Values
+- Ensuring the data is allocated to it's appropriate data type.
+- Check for Duplicate Rows by using the order id, as a check row.
+- Create Derived Columns (e.g: month column, year column, and day column, for precise analysis)
