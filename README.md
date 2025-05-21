@@ -1,3 +1,10 @@
 # Balaji-Restaurant-Sales.
-This analysis was made to track progress of the Balaji Restaurant.
+I. About dataset
+
+1. Description:
+
+This dataset captures sales transactions from a restaurant based in India named Balaji.
+It includes details such as the order ID, date of the transaction, item names (representing various food and beverage items), item types (categorized as Fast-food or Beverages), item prices, quantities ordered, transaction amounts, transaction types (cash, online, or others), the gender of the staff member who received the order, and the time of the sale (Morning, Evening, Afternoon, Night, Midnight). The dataset offers a valuable snapshot of the restaurant's daily operations and customer behavior.
+
+2. Columns: 
 https://drive.google.com/file/d/1FVR8YOSUZkj7FX6gkVDTjuH0QG_ZW0dy/view?usp=drive_link
