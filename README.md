@@ -27,4 +27,4 @@ The dataset was not appropriately cleaned so I took some steps in cleaning the d
 This is a link to the clean and edited dataset.
 [Balaji resturant sales - clean xl](https://github.com/user-attachments/files/20374171/Balaji.Fast.resturant.sales.-.worked.on.xlsx)
 
-##Executive Summary
+## Executive Summary
