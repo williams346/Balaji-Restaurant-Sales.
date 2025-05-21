@@ -12,8 +12,7 @@ It includes details such as the order ID, date of the transaction, item names (r
 
 II. Data Loading | Cleaning
 
-![balaji raw workbook screenshot](https://github.com/user-attachments/assets/b190551d-ddf6-4796-90e2-7c335970ca3d)
 
-
+![balaji workbook bad screenshot](https://github.com/user-attachments/assets/e676c846-2888-40f6-8bbe-5d5c749ad6d2)
 
 
