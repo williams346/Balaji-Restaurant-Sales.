@@ -10,7 +10,7 @@ It includes details such as the order ID, date of the transaction, item names (r
 
 ![Balaji github pres background](https://github.com/user-attachments/assets/6fa469eb-c560-446b-9f74-5fe1bde61917)
 
-II. Data Loading | Cleaning
+## Data Loading | Cleaning
 
 
 ![balaji workbook bad screenshot](https://github.com/user-attachments/assets/e676c846-2888-40f6-8bbe-5d5c749ad6d2)
@@ -28,3 +28,11 @@ This is a link to the clean and edited dataset.
 [Balaji resturant sales - clean xl](https://github.com/user-attachments/files/20374171/Balaji.Fast.resturant.sales.-.worked.on.xlsx)
 
 ## Executive Summary
+This analysis was conducted to review the following findings:
+- Analyze sales trend over time.
+- Understand customer preference item.
+- Evaluate the impact of payment method on sales.
+- Evaluating sales rate based on staff gender.
+- Analyzing sales rate at different times of the day.
+## Overview of findings:
+
